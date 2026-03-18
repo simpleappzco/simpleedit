@@ -1,4 +1,5 @@
 <div align="center">
+
 # SimpleEdit
 
 **A professional text and code editor for macOS — built natively with SwiftUI.**  
