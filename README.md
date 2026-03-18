@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/simpleappzco/simpleedit/raw/main/SimpleEdit/Assets.xcassets/AppIcon.appiconset/icon_128x128@2x.png" width="128" height="128" alt="SimpleEdit Icon"/>
-
 # SimpleEdit
 
 **A professional text and code editor for macOS — built natively with SwiftUI.**  
